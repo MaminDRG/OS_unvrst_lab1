@@ -11,7 +11,7 @@
 
 #Xcode
 
-*.xcodeproj/
+*.xcodeproj/*
 
 
 # OS X temporary files that should never be committed
